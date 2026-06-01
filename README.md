@@ -163,7 +163,7 @@ After running `setup.php`, the following default accounts may be created:
 
 | Role     | Username/Email | Password     |
 |----------|----------------|--------------|
-| Admin    | admin          | admin123     |
+| Admin    | admin          | admin12      |
 | Employee | (varies)       | (varies)     |
 
 > **⚠️ Security:** Change default passwords immediately in production.
